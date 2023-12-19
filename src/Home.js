@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import mearn from "../images/mearnportfolio2.jpg";
+import mearn from "./images/mearnportfolio2.jpg";
 // import prem from "../images/premnew.png"
 
 function Home() {

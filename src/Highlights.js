@@ -1,18 +1,18 @@
 import React from "react";
 import "./Highlights.css";
-import fewd from"../images/Medepalli Prem Chandu FEWD_page-0001.jpg"
-import awscp from "../images/AWS Certified Cloud Practitioner certificate_page-0001.jpg"
-import azure from "../images/Azure Fundamentals_page-0002.jpg"
-import oracle from "../images/Oracle Certificate_page-0001.jpg"
-import awsda from "../images/AWS Certified Developer - Associate certificate_page-0001.jpg"
-import redhat from "../images/Red_Hat__Certified_Enterprise_Application_Developer_Badge20221224-30-1p4wn8n_page-0001.jpg"
-import wipro from "../images/2000031715_wiprotalentnext_page-0001.jpg"
-import aiml from"../images/PREM CHANDU MEDEPALLI 840308_page-0001.jpg"
-import aws from "../images/PREM CHANDU MEDEPALLI 812279_page-0001.jpg"
-import blender from "../images/Mayavi-Workshop-Participation_Certificate_page-0001.jpg"
-import next from "../images/ccbp 4.0.PNG"
-import public1 from "../images/publication1.PNG"
-import mayavi from "../images/MEDEPALLI PREM CHANDU.jpg"
+import fewd from"./images/Medepalli Prem Chandu FEWD_page-0001.jpg"
+import awscp from "./images/AWS Certified Cloud Practitioner certificate_page-0001.jpg"
+import azure from "./images/Azure Fundamentals_page-0002.jpg"
+import oracle from "./images/Oracle Certificate_page-0001.jpg"
+import awsda from "./images/AWS Certified Developer - Associate certificate_page-0001.jpg"
+import redhat from "./images/Red_Hat__Certified_Enterprise_Application_Developer_Badge20221224-30-1p4wn8n_page-0001.jpg"
+import wipro from "./images/2000031715_wiprotalentnext_page-0001.jpg"
+import aiml from"./images/PREM CHANDU MEDEPALLI 840308_page-0001.jpg"
+import aws from "./images/PREM CHANDU MEDEPALLI 812279_page-0001.jpg"
+import blender from "./images/Mayavi-Workshop-Participation_Certificate_page-0001.jpg"
+import next from "./images/ccbp 4.0.PNG"
+import public1 from "./images/publication1.PNG"
+import mayavi from "./images/MEDEPALLI PREM CHANDU.jpg"
 function High() {
     return(
         <>

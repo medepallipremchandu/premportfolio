@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import tenth from "../images/premintro1.png";
+import tenth from "./images/premintro1.png";
 function About() {
     return(
         <>

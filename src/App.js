@@ -1,10 +1,10 @@
 import './App.css';
-import Navbar from './components/Navbar';
-import Home from './components/Home';
-import About from './components/About';
-import Porto from './components/Portfolio';
-import Skill from './components/skills';
-import High from './components/Highlights';
+import Navbar from './Navbar';
+import Home from './Home';
+import About from './About';
+import Porto from './Portfolio';
+import Skill from './skills';
+import High from './Highlights';
 import { Route,Routes } from 'react-router-dom';
 
 function App() {
