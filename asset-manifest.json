@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/premportfolio/static/css/main.6f66e2bb.css",
+    "main.js": "/premportfolio/static/js/main.9fdc5ee5.js",
+    "static/js/787.c75114d8.chunk.js": "/premportfolio/static/js/787.c75114d8.chunk.js",
+    "static/media/MEDEPALLI PREM CHANDU.jpg": "/premportfolio/static/media/MEDEPALLI PREM CHANDU.f7839326257b74fad436.jpg",
+    "static/media/mearnportfolio2.jpg": "/premportfolio/static/media/mearnportfolio2.b20033ff5349d4e8ad41.jpg",
+    "static/media/Oracle Certificate_page-0001.jpg": "/premportfolio/static/media/Oracle Certificate_page-0001.ae653c2ef3f646f401c4.jpg",
+    "static/media/Mayavi-Workshop-Participation_Certificate_page-0001.jpg": "/premportfolio/static/media/Mayavi-Workshop-Participation_Certificate_page-0001.5cb1cbf587fd58b90bb0.jpg",
+    "static/media/PREM CHANDU MEDEPALLI 840308_page-0001.jpg": "/premportfolio/static/media/PREM CHANDU MEDEPALLI 840308_page-0001.d31432ee45428103ba60.jpg",
+    "static/media/PREM CHANDU MEDEPALLI 812279_page-0001.jpg": "/premportfolio/static/media/PREM CHANDU MEDEPALLI 812279_page-0001.c36dd831f8f345e49f36.jpg",
+    "static/media/2000031715_wiprotalentnext_page-0001.jpg": "/premportfolio/static/media/2000031715_wiprotalentnext_page-0001.8f1e4dc51fa8af7207f5.jpg",
+    "static/media/Medepalli Prem Chandu FEWD_page-0001.jpg": "/premportfolio/static/media/Medepalli Prem Chandu FEWD_page-0001.042aaf455f2a4a8f5b98.jpg",
+    "static/media/premintro1.png": "/premportfolio/static/media/premintro1.677544b78aff03d67da5.png",
+    "static/media/Red_Hat__Certified_Enterprise_Application_Developer_Badge20221224-30-1p4wn8n_page-0001.jpg": "/premportfolio/static/media/Red_Hat__Certified_Enterprise_Application_Developer_Badge20221224-30-1p4wn8n_page-0001.cd6330e598973019bfa3.jpg",
+    "static/media/AWS Certified Developer - Associate certificate_page-0001.jpg": "/premportfolio/static/media/AWS Certified Developer - Associate certificate_page-0001.003f563a544ca178b3c7.jpg",
+    "static/media/AWS Certified Cloud Practitioner certificate_page-0001.jpg": "/premportfolio/static/media/AWS Certified Cloud Practitioner certificate_page-0001.546ac9e2cb017e857f1f.jpg",
+    "static/media/publication1.PNG": "/premportfolio/static/media/publication1.632b2c8eabc3cd269cce.PNG",
+    "static/media/bootstrap-icons.woff?": "/premportfolio/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/Azure Fundamentals_page-0002.jpg": "/premportfolio/static/media/Azure Fundamentals_page-0002.242604d989592ae3e2d4.jpg",
+    "static/media/ccbp 4.0.PNG": "/premportfolio/static/media/ccbp 4.0.0184613485852f4dccd7.PNG",
+    "static/media/bootstrap-icons.woff2?": "/premportfolio/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/premportfolio/index.html",
+    "main.6f66e2bb.css.map": "/premportfolio/static/css/main.6f66e2bb.css.map",
+    "main.9fdc5ee5.js.map": "/premportfolio/static/js/main.9fdc5ee5.js.map",
+    "787.c75114d8.chunk.js.map": "/premportfolio/static/js/787.c75114d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f66e2bb.css",
+    "static/js/main.9fdc5ee5.js"
+  ]
+}
