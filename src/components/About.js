@@ -17,7 +17,7 @@ function About() {
         <h2 className="p1">Biography</h2>
         <br/>
         <p className="p">****************************************************************</p>
-        <br/><right> <p className="gradient-underline"></p> </right><br/>
+        <br/><right> <p className="gradient-underline2"></p> </right><br/>
        
             <h2 className="p1">Education</h2>
             <br/>
@@ -32,7 +32,7 @@ function About() {
             <h5 className="p2">Secondary School Of Education Andhra Pradesh</h5>
             <p className="p">Montessori (EM) High School</p>
             <p className="p">Graduation in April 2018 with 9.2 CGPA.</p>
-            <br/><right> <p className="gradient-underline"></p> </right><br/>
+            <br/><right> <p className="gradient-underline2"></p> </right><br/>
             
             <h2 className="p1">Internships</h2>
             <br/>
@@ -41,14 +41,14 @@ function About() {
             <br/>
             <h5 className="p2">AWS CLOUD Virtual Internship</h5>
             <p className="p">AICTE | October-2021 December-2021</p>
-            <br/><right> <p className="gradient-underline"></p> </right><br/>
+            <br/><right> <p className="gradient-underline2"></p> </right><br/>
             <h2 className="p1">Experience</h2>
             <br/>
             <h5 className="p2">Director of Technology</h5>
             <p className="p">Mayavi Tech Club | K L University</p>
             <p className="p">Where we work on AR, VR Technologies, and Game Development.</p>
             <center className="p4"><a href="https://klefmayavi.tech/" class="p3 btn btn-dark ">Know More About Mayavi</a></center>
-            <br/><right> <p className="gradient-underline"></p> </right><br/>
+            <br/><right> <p className="gradient-underline2"></p> </right><br/>
             <h2 className="p1">Hobbies</h2>
             <br/>
             <p className="p">Watching and working on (software) tool based projects</p>
