@@ -1,15 +1,16 @@
 import React from "react";
 import "./Home.css";
-import mearn from "./images/mearnportfolio2.jpg";
+// import mearn from "../images/mearnportfolio2.jpg";
+import cartoon from "../images/sysadmin_03-removebg-preview.png";
 // import prem from "../images/premnew.png"
 
 function Home() {
     return(
         <>
         <div className="gradient-background">
-        <div class="container1">
-        <img src={mearn} alt="darkimg" width="100%" height="750"></img>
-        {/* <img src={prem} alt="prem" class="prem" width="500" height="500"></img> */}
+        <div class="container1 " id="content1">
+        {/* <img src={mearn} alt="darkimg" width="100%" height="750"></img> */}
+        <img src={cartoon} alt="prem" class="prem" width="500" height="500"></img>
         <div class="righted">
         <right><h3>INTRODUCTION</h3>
         <h1>Hi I'm Medepalli Prem Chandu, a</h1>
@@ -30,9 +31,12 @@ function Home() {
             <h2 className="em">4+</h2>
             <h4>GLOBAL CERTIFICATES ACHEIVED</h4>
         </div>
-        </div>
-        </div>
-        </div>
+        </div>        
+        </div> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+        <div>
+        <h2 className="mm">Use Demo Credentials Username: <ua className="orange">prem</ua> && Password: <ua className="orange">prem</ua> to login</h2>
+        </div>               
+        </div>        
         </div>
         </>
     );
