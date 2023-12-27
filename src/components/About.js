@@ -1,18 +1,18 @@
 import React from "react";
 import "./About.css";
-import tenth from "../images/384564-PC48W3-554-removebg-preview (1).png";
+// import tenth from "../images/384564-PC48W3-554-removebg-preview (1).png";
 function About() {
     return(
         <>
         <br/><br/><br/>
-        <div >
+        {/* <div >
             <center><h1>About Me</h1></center>
         </div>
         <div id="container">
         <div id="image">
             <br/><br/><br/><br/><br/><br/><br/><br/>
             <img className="img1" src={tenth} alt="tenth"></img>
-        </div>
+        </div> */}
         <div id="content">
         <h2 className="p1">Biography</h2>
         <br/>
@@ -58,7 +58,7 @@ function About() {
             <p className="p">Watching movies on ott platforms</p>
             <br/><br/><br/><br/>
         </div>  
-        </div>        
+        {/* </div>         */}
         </>
     );
 }
