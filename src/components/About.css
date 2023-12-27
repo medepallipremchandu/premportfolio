@@ -12,12 +12,12 @@ body {
 
 #image {
   flex: 0 0 auto; /* Do not grow, do not shrink, fixed width */
-  width: 300px; /* Adjust the width as needed */
+  width: 400px; /* Adjust the width as needed */
   position: fixed;
   top: 0;
   left: 10%;
   height: 100vh; /* Full height of the viewport */
-  overflow: hidden;
+  overflow:visible;
 }
 
 #content {
