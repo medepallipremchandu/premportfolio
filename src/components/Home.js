@@ -32,9 +32,6 @@ function Home() {
             <h4>GLOBAL CERTIFICATES ACHEIVED</h4>
         </div>
         </div>        
-        </div> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-        <div>
-        <h2 className="mm">Use Demo Credentials Username: <ua className="orange">prem</ua> && Password: <ua className="orange">prem</ua> to login</h2>
         </div>               
         </div>        
         </div>

@@ -181,10 +181,9 @@ function High() {
             </div>
             </div>
             <br/><br/><br/>
-                <h1>Publications & Papers</h1>
+                <h1>Publications</h1>
                 <p class="gradient-underline1"></p>
-                <br/>       
-                <div className="row">         
+                <br/>                
                 <div className="card ls" style={{ width: '29rem' }}>
             <div class="feature-box-01 media">
                 <img src={public1} class="card-img-top" alt="..." height="350"/>
@@ -196,10 +195,6 @@ Troublesome crop pests cause a significant loss of revenue for the agricultural 
                 </div>
             </div>
             </div>
-
-            {/* cardcodes */}
-
-            </div>            
                 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
             </div>
         </>
