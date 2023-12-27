@@ -13,7 +13,7 @@ function About() {
             <br/><br/><br/><br/><br/><br/><br/><br/>
             <img className="img1" src={tenth} alt="tenth"></img>
         </div> */}
-        <div id="content">
+        {/* <div id="content"> */}
         <h2 className="p1">Biography</h2>
         <br/>
         <p className="p">****************************************************************</p>
@@ -57,7 +57,7 @@ function About() {
             <p className="p">Playing physical as well as online games</p>
             <p className="p">Watching movies on ott platforms</p>
             <br/><br/><br/><br/>
-        </div>  
+        {/* </div>   */}
         {/* </div>         */}
         </>
     );
