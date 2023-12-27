@@ -24,6 +24,7 @@ body {
   flex: 1; /* Grow to fill remaining space */
   margin-left: 320px; /* Adjust the margin based on image width + spacing */
   padding: 20px;
+  overflow-x: scroll;
   overflow-y: scroll; /*Enable vertical scrolling for content*/
   height: 100vh; /* Full height of the viewport */
   left:50%;
