@@ -16,7 +16,7 @@ function Public() {
     <Navbar bg="dark" variant="dark" expand="lg" fixed="top" expanded={expanded}>
       <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={handleToggle} />
       <Navbar.Collapse id="basic-navbar-nav" onClick={closeNavbar}>
-        <Nav className="mr-auto gradient-underline">
+        <Nav className="mr-auto gradient-underline2">
           <Nav.Link as={Link} to="/Home" className={location.pathname === '/Home' ? 'active' : ''}>
             HOME
           </Nav.Link>
